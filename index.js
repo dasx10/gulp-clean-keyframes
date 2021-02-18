@@ -1,0 +1,1 @@
+const regKeyFrames = /@keyframes+[^}]+}+([\s]|)+}/g
