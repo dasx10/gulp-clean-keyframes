@@ -1,0 +1,35 @@
+div{
+    animation: test 2s 2s 2s 2;
+}
+
+div{
+    animation: test2 2s 2s 2s 2;
+}
+
+
+@keyframes test {
+    10%{
+        display: block;
+    }
+    100%{
+        display: flex;
+    }
+}
+
+@keyframes test2 {
+    10%{
+        display: block;
+    }
+    100%{
+        display: flex;
+    }
+}
+
+@keyframes test3 {
+    10%{
+        display: block;
+    }
+    100%{
+        display: flex;
+    }
+}
