@@ -1,0 +1,32 @@
+{
+  "name": "gulp-clean-keyframes",
+  "version": "1.1.0",
+  "description": "Gulp plugin. Cleans up unused @keyfarames",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasx10/gulp-clean-keyframes.git"
+  },
+  "keywords": [
+    "keyfarames",
+    "css",
+    "less",
+    "scss",
+    "gulp",
+    "gulpplugin",
+    "clean",
+    "optimisation"
+  ],
+  "author": "Yevhenii Kleshchev <dasx10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasx10/gulp-clean-keyframes/issues"
+  },
+  "homepage": "https://github.com/dasx10/gulp-clean-keyframes#readme"
+}
